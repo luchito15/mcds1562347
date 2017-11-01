@@ -1,12 +1,12 @@
 html {
-	background: linear-gradient(#8ec854, #1f2a14);
+	background: linear-gradient(#FFFFFF, #FFFFFF);
 	height: 100vh;
 }
 body {
 	font: 16px Arial;
 }
 h2 {
-	background-color: #1f2a14;
+	background-color: #FFFFFF;
 	color: #8ec854;
 	text-align: center;
 	font-size: 1.4em;
